@@ -403,19 +403,13 @@ right: 2.2rem;
     }
 }
 @media (min-width: 768px) {
-    section , header {
+    body {
       width: 750px;
     }
   }
   /* Medium */
   @media (min-width: 992px) {
-    section , header {
+    body {
       width: 970px;
     }
   }
-  /* Large */
-  @media (min-width: 1200px) {
-    section , header {
-      width: 1170px;
-    }} 
-
