@@ -402,4 +402,20 @@ right: 2.2rem;
         width: 100%; 
     }
 }
+@media (min-width: 768px) {
+    section , header {
+      width: 750px;
+    }
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+    section , header {
+      width: 970px;
+    }
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    section , header {
+      width: 1170px;
+    }} 
 
